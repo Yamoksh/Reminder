@@ -1,0 +1,5 @@
+Child_Info
+Child_Vaccine
+Vaccine_Info
+//insert into mydb values(to_date('02/04/2012','DD/MM/YYYY'));
+//select to_char(myd, 'DD-MM-YYYY') from mydb;

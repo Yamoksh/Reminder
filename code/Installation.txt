@@ -1,0 +1,6 @@
+Required Software --->
+1. Oracle Web-logic Software
+2. Oracle Sql Database
+3. Mail activation jar
+4. Web-logic jar
+ 
